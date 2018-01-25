@@ -11,3 +11,6 @@ computational advertising reading list (计算广告阅读）
 #### CTR Prediction (点击率预估)
 - [Practical Lessons from Predicting Clicks on Ads at Facebook](./ctr/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf)：Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强。*2014-08*
 - [Deep Neural Networks for YouTube Recommendations](./ctr/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)：Youtube推荐模型，京东也使用这一套DNN的模型。*2016-09*
+
+#### Allocation (分流)
+- [Ad Serving Using a Compact Allocation Plan](Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)：雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用
