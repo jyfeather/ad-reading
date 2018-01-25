@@ -13,4 +13,7 @@ computational advertising reading list (计算广告阅读）
 - [Deep Neural Networks for YouTube Recommendations](./ctr/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)：Youtube推荐模型，京东也使用这一套DNN的模型。*2016-09*
 
 #### Allocation (分流)
-- [Ad Serving Using a Compact Allocation Plan](Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)：雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用
+- [Ad Serving Using a Compact Allocation Plan](Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)：雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用。*2012-03*
+
+#### Bidding Strategy（广告定价）
+- [Research Frontier of Real-Time Bidding based Display Advertising](./bidding/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf)：张伟楠博士的一篇介绍竞价算法的ppt，可以非常清晰的了解该问题的主要方法。*2015*
