@@ -4,7 +4,11 @@ computational advertising reading list (计算广告阅读）
 
 ## 目录
 
-#### Computational Advertising Architect (计算广告架构)
+#### Basics (计算广告基础）
+- [斯坦福计算广告公开课](http://web.stanford.edu/class/msande239/)：由计算广告之父，Yahoo广告首席科学家[Andrei Broder](https://en.wikipedia.org/wiki/Andrei_Broder)开设。
+- [《计算广告》](https://book.douban.com/subject/26596778/)：360高级总监刘鹏著，通俗易懂，计算广告入门推荐。*2015*
+
+#### Architect (计算广告架构)
 - [美团机器学习@吃喝玩乐中的算法问题](./architect/美团机器学习_吃喝玩乐中的算法问题.pdf)：美团王栋博士的一篇关于美团机器学习相关问题的介绍，介绍的比较全但比较粗浅，可以借此了解美团的一些机器学习问题。*2016-11*
 
 
