@@ -16,6 +16,7 @@ computational advertising reading list (计算广告阅读）
 - [Practical Lessons from Predicting Clicks on Ads at Facebook](./ctr/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf)：Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强，海量离散特征+简单线性模型 对抗 少量连续特征+复杂深度模型。*2014-08*
 - [Deep Neural Networks for YouTube Recommendations](./ctr/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)：Youtube推荐模型，京东也使用这一套DNN的模型。*2016-09*
 - [推荐系统评价指标综述](./ctr/metrics.pdf)：推荐系统常用的衡量指标，包括逆序比，NDCG，新颖性等相似概念。*2012*
+- [特征哈希](./ctr/shi09a.pdf)：将原始特征哈希到定长的hash list，这样特征的维度就固定了。*2009*
 
 #### Allocation (分流)
 - [Ad Serving Using a Compact Allocation Plan](Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)：雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用。*2012-03*
