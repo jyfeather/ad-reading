@@ -17,6 +17,7 @@ computational advertising reading list (计算广告阅读）
 - [Deep Neural Networks for YouTube Recommendations](./ctr/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)：Youtube推荐模型，京东也使用这一套DNN的模型。*2016-09*
 - [推荐系统评价指标综述](./ctr/metrics.pdf)：推荐系统常用的衡量指标，包括逆序比，NDCG，新颖性等相似概念。*2012*
 - [特征哈希](./ctr/shi09a.pdf)：将原始特征哈希到定长的hash list，这样特征的维度就固定了。*2009*
+- [Learning Tree-based Deep Model for Recommender Systems](./ctr/treeDNN.pdf): 阿里盖坤团队的深层树结构检索模型。*2018-01*
 
 #### Allocation (分流)
 - [Ad Serving Using a Compact Allocation Plan](Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)：雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用。*2012-03*
