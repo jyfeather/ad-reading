@@ -24,3 +24,6 @@ computational advertising reading list (计算广告阅读）
 
 #### Bidding Strategy（广告定价）
 - [Research Frontier of Real-Time Bidding based Display Advertising](./bidding/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf)：张伟楠博士的一篇介绍竞价算法的ppt，可以非常清晰的了解该问题的主要方法。*2015*
+
+#### Reinforce Learning (强化学习的应用)
+- [Learning To Teach](./rl/l2t.pdf)：微软亚研院在ICLR上关于teacher student网络，用teacher为student网络提供数据，loss，函数形式的指导的方法。*2018*
