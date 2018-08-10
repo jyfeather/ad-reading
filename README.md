@@ -19,6 +19,9 @@ computational advertising reading list (计算广告阅读）
 - [特征哈希](./ctr/shi09a.pdf)：将原始特征哈希到定长的hash list，这样特征的维度就固定了。*2009*
 - [Learning Tree-based Deep Model for Recommender Systems](./ctr/treeDNN.pdf): 阿里盖坤团队的深层树结构检索模型。*2018-01*
 
+#### CVR Prediction (转化率预估)
+- [Modeling Delayed Feedback in Display Advertising](./cvr/delayedConv.pdf): 前雅虎现Google的广告大牛Olivier的一篇关于转化率预估的文章，转化率预估分为点击率预估和转化时间预估两个模型，其中用survival analysis来刻画转化时间。通俗易懂。*2014-08*
+
 #### Allocation (分流)
 - [Ad Serving Using a Compact Allocation Plan](Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)：雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用。*2012-03*
 
