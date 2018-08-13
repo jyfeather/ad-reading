@@ -13,8 +13,9 @@ computational advertising reading list (计算广告阅读）
 
 
 #### CTR Prediction (点击率预估)
-- [Practical Lessons from Predicting Clicks on Ads at Facebook](./ctr/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf)：Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强，海量离散特征+简单线性模型 对抗 少量连续特征+复杂深度模型。*2014-08*
 - [Deep Neural Networks for YouTube Recommendations](./ctr/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)：Youtube推荐模型，京东也使用这一套DNN的模型。*2016-09*
+- [Practical Lessons from Predicting Clicks on Ads at Facebook](./ctr/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf)：Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强，海量离散特征+简单线性模型 对抗 少量连续特征+复杂深度模型。*2014-08*
+- [Ad Click Prediction: a View from the Trenches](./ctr/41159.pdf): 应用性很强的一篇来自于Google Search Ads的文章，对于稀疏特征，内存，特征可视化，Calibration等都有介绍。*2013-08*
 - [推荐系统评价指标综述](./ctr/metrics.pdf)：推荐系统常用的衡量指标，包括逆序比，NDCG，新颖性等相似概念。*2012*
 - [特征哈希](./ctr/shi09a.pdf)：将原始特征哈希到定长的hash list，这样特征的维度就固定了。*2009*
 - [Learning Tree-based Deep Model for Recommender Systems](./ctr/treeDNN.pdf): 阿里盖坤团队的深层树结构检索模型。*2018-01*
