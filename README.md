@@ -7,7 +7,6 @@ computational advertising reading list (计算广告阅读）
 #### Basics (计算广告基础）
 - [斯坦福计算广告公开课](http://web.stanford.edu/class/msande239/)：由计算广告之父，Yahoo广告首席科学家[Andrei Broder](https://en.wikipedia.org/wiki/Andrei_Broder)开设。
 - [《计算广告》](https://book.douban.com/subject/26596778/)：360高级总监刘鹏著，通俗易懂，计算广告入门推荐。*2015*
-- [推荐系统评价指标综述](./ctr/metrics.pdf)：推荐系统常用的衡量指标，包括逆序比，NDCG，新颖性等相似概念。*2012*
 
 #### Architect (计算广告架构)
 - [美团机器学习@吃喝玩乐中的算法问题](./architect/美团机器学习_吃喝玩乐中的算法问题.pdf)：美团王栋博士的一篇关于美团机器学习相关问题的介绍，介绍的比较全但比较粗浅，可以借此了解美团的一些机器学习问题。*2016-11*
@@ -24,6 +23,10 @@ computational advertising reading list (计算广告阅读）
 - [Practical Lessons from Predicting Clicks on Ads at Facebook](./ctr/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf)：Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强，海量离散特征+简单线性模型 对抗 少量连续特征+复杂深度模型。*2014-08*
 - [Ad Click Prediction: a View from the Trenches](./ctr/41159.pdf): 应用性很强的一篇来自于Google Search Ads的文章，对于稀疏特征，内存，特征可视化，Calibration等都有介绍。*2013-08*
 
+#### CVR Prediction (转化率预估)
+- [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](./cvr/ali_cvr.pdf):ctr模型和cvr模型做multi-task learning，共享底部全联接层。 *2018-04*
+- [Modeling Delayed Feedback in Display Advertising](./cvr/delayedConv.pdf): 前雅虎现Google的广告大牛Olivier的一篇关于转化率预估的文章，转化率预估分为点击率预估和转化时间预估两个模型，其中用survival analysis来刻画转化时间。通俗易懂。*2014-08*
+
 #### Feature Engineering (特征工程)
 - [特征哈希](./ctr/shi09a.pdf)：将原始特征哈希到定长的hash list，这样特征的维度就固定了。*2009*
 
@@ -34,8 +37,9 @@ computational advertising reading list (计算广告阅读）
 - [Enriching Word Vectors with Subword Information](./nlp/fasttext.pdf):基于word2vec，考虑了词缀的因素。 *2017-06*
 - [Distributed Representations of Words and Phrases and their Compositionality](./nlp/word2vec.pdf):划时代的NLP模型。 *2013-10*
 
-#### CVR Prediction (转化率预估)
-- [Modeling Delayed Feedback in Display Advertising](./cvr/delayedConv.pdf): 前雅虎现Google的广告大牛Olivier的一篇关于转化率预估的文章，转化率预估分为点击率预估和转化时间预估两个模型，其中用survival analysis来刻画转化时间。通俗易懂。*2014-08*
+#### Offline Evaluation (离线评估)
+- [AUC的介绍和计算](./offline_eval/auc.pdf):AUC的介绍和计算。
+- [推荐系统评价指标综述](./offline_eval/metrics.pdf)：推荐系统常用的衡量指标，包括逆序比，NDCG，新颖性等相似概念。*2012*
 
 #### Allocation (分流)
 - [Ad Serving Using a Compact Allocation Plan](Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)：雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用。*2012-03*
