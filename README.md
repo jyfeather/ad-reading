@@ -21,7 +21,6 @@ computational advertising reading list (计算广告阅读）
 - [Deep Neural Networks for YouTube Recommendations](./ctr/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)：Youtube推荐模型，京东也使用这一套DNN的模型。*2016-09*
 - [Wide & Deep Learning for Recommender Systems](./ctr/WideDeep.pdf):考虑特征记忆与泛化性能。 *2016-06*
 - [Practical Lessons from Predicting Clicks on Ads at Facebook](./ctr/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf)：Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强，海量离散特征+简单线性模型 对抗 少量连续特征+复杂深度模型。*2014-08*
-- [Ad Click Prediction: a View from the Trenches](./ctr/41159.pdf): 应用性很强的一篇来自于Google Search Ads的文章，对于稀疏特征，内存，特征可视化，Calibration等都有介绍。*2013-08*
 
 #### CVR Prediction (转化率预估)
 - [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](./cvr/ali_cvr.pdf):ctr模型和cvr模型做multi-task learning，共享底部全联接层。 *2018-04*
@@ -29,6 +28,11 @@ computational advertising reading list (计算广告阅读）
 
 #### Feature Engineering (特征工程)
 - [特征哈希](./ctr/shi09a.pdf)：将原始特征哈希到定长的hash list，这样特征的维度就固定了。*2009*
+
+#### Learning Algorithm (优化算法)
+- [在线最优化求解](./algo/fengyang.pdf): 详解在线学习问题。 *2014-12*
+- [Ad Click Prediction: a View from the Trenches](./algo/41159.pdf): 应用性很强的一篇来自于Google Search Ads的文章，引入FTRL，对于稀疏特征，内存，特征可视化，Calibration等都有介绍。*2013-08*
+- [Web-Scale Bayesian Click-Through Rate Prediction for Sponsored Search Advertising in Microsoft’s Bing Search Engine](./algo/bayesian.pdf):微软bing search使用的贝叶斯法。 *2010*
 
 #### NLP (NLP在广告中的应用)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](./nlp/bert.pdf):谷歌的划时代的NLP模型。 *2018-10*
