@@ -56,4 +56,5 @@ computational advertising reading list (计算广告阅读）
 - [Learning To Teach](./rl/l2t.pdf)：微软亚研院在ICLR上关于teacher student网络，用teacher为student网络提供数据，loss，函数形式的指导的方法。*2018*
 
 ## 参考资料
+- [上海交大张伟楠的RTB阅读列表](https://github.com/wnzhang/rtb-papers)
 - [王喆的github列表](https://github.com/wzhe06/Ad-papers)
