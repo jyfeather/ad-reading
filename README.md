@@ -2,7 +2,63 @@
 
 computational advertising reading list (计算广告阅读）
 
-## 目录
+------
+
+## 会议跟踪
+
+### RecSys
+
+#### 2019
+
+[被接收的论文](https://recsys.acm.org/recsys19/accepted-contributions/)
+
+- [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches 模型可复现解读](https://mp.weixin.qq.com/s/GNYDX0SfitFtiIU-jq51Pg)
+
+#### 2018
+
+[被接收的论文](https://recsys.acm.org/recsys18/accepted-contributions/)
+
+#### 2017
+
+[被接收的论文](https://recsys.acm.org/recsys17/accepted-contributions/)
+
+#### 2016
+
+[被接收的论文](https://recsys.acm.org/recsys16/accepted-contributions/)
+
+#### 2015
+
+[被接收的论文](https://recsys.acm.org/recsys15/accepted-contributions/)
+
+#### 2014
+
+[被接收的论文](https://recsys.acm.org/recsys14/accepted-contributions/)
+
+### SIGIR
+
+#### 2019
+
+[被接收的论文](https://sigir.org/sigir2019/program/accepted/)
+
+#### 2018
+
+[被接收的论文](https://sigir.org/sigir2018/accepted-papers/)
+
+#### 2017
+
+[被接收的论文]()
+
+#### 2016
+
+[被接收的论文](https://sigir.org/sigir2016/full-papers/)
+
+#### 2015
+
+[被接收的论文](https://dblp.org/db/conf/sigir/sigir2015)
+
+------
+
+## 经典论文分类阅读目录
 
 #### Basics (计算广告基础）
 - [斯坦福计算广告公开课](http://web.stanford.edu/class/msande239/)：由计算广告之父，Yahoo广告首席科学家[Andrei Broder](https://en.wikipedia.org/wiki/Andrei_Broder)开设。
