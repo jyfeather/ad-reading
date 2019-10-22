@@ -13,6 +13,7 @@ computational advertising reading list (计算广告阅读）
 [被接收的论文](https://recsys.acm.org/recsys19/accepted-contributions/)
 
 - [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches 模型可复现解读](https://mp.weixin.qq.com/s/GNYDX0SfitFtiIU-jq51Pg)
+- [Youtube 排序系统：Recommending What Video to Watch Next](https://zhuanlan.zhihu.com/p/82584437)
 
 #### 2018
 
