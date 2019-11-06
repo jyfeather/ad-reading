@@ -8,54 +8,34 @@ computational advertising reading list (计算广告阅读）
 
 ### RecSys
 
-#### 2019
-
-[被接收的论文](https://recsys.acm.org/recsys19/accepted-contributions/)
-
-- [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches 模型可复现解读](https://mp.weixin.qq.com/s/GNYDX0SfitFtiIU-jq51Pg)
-- [Youtube 排序系统：Recommending What Video to Watch Next](https://zhuanlan.zhihu.com/p/82584437)
-
-#### 2018
-
-[被接收的论文](https://recsys.acm.org/recsys18/accepted-contributions/)
-
-#### 2017
-
-[被接收的论文](https://recsys.acm.org/recsys17/accepted-contributions/)
-
-#### 2016
-
-[被接收的论文](https://recsys.acm.org/recsys16/accepted-contributions/)
-
-#### 2015
-
-[被接收的论文](https://recsys.acm.org/recsys15/accepted-contributions/)
-
-#### 2014
-
-[被接收的论文](https://recsys.acm.org/recsys14/accepted-contributions/)
+| Year | 被接受的论文                                                 | Note                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2019 | [被接收的论文](https://recsys.acm.org/recsys19/accepted-contributions/) | - [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches 模型可复现解读](https://mp.weixin.qq.com/s/GNYDX0SfitFtiIU-jq51Pg)<br />- [Youtube 排序系统：Recommending What Video to Watch Next](https://zhuanlan.zhihu.com/p/82584437) |
+| 2018 | [被接收的论文](https://recsys.acm.org/recsys18/accepted-contributions/) |                                                              |
+| 2017 | [被接收的论文](https://recsys.acm.org/recsys17/accepted-contributions/) |                                                              |
+| 2016 | [被接收的论文](https://recsys.acm.org/recsys16/accepted-contributions/) |                                                              |
+| 2015 | [被接收的论文](https://recsys.acm.org/recsys15/accepted-contributions/) |                                                              |
+| 2014 | [被接收的论文](https://recsys.acm.org/recsys14/accepted-contributions/) |                                                              |
 
 ### SIGIR
 
-#### 2019
+| Year | 被接收的论文                                                 | Note |
+| ---- | ------------------------------------------------------------ | ---- |
+| 2019 | [被接收的论文](https://sigir.org/sigir2019/program/accepted/) |      |
+| 2018 | [被接收的论文](https://sigir.org/sigir2018/accepted-papers/) |      |
+| 2017 |                                                              |      |
+| 2016 | [被接收的论文](https://sigir.org/sigir2016/full-papers/)     |      |
+| 2015 | [被接收的论文](https://dblp.org/db/conf/sigir/sigir2015)     |      |
 
-[被接收的论文](https://sigir.org/sigir2019/program/accepted/)
+### CIKM
 
-#### 2018
+| Year | 被接收的论文                                    | Note |
+| ---- | ----------------------------------------------- | ---- |
+| 2019 | [Link](http://www.cikm2019.net/)                | GCN  |
+| 2018 | [Link](https://www.cikm2018.units.it/)          |      |
+| 2017 | [Link](http://www.cikmconference.org/CIKM2017/) |      |
 
-[被接收的论文](https://sigir.org/sigir2018/accepted-papers/)
 
-#### 2017
-
-[被接收的论文]()
-
-#### 2016
-
-[被接收的论文](https://sigir.org/sigir2016/full-papers/)
-
-#### 2015
-
-[被接收的论文](https://dblp.org/db/conf/sigir/sigir2015)
 
 ------
 
