@@ -1,1 +1,1 @@
-![timeline](/Users/jinyan/OpenSourceProjects/ad-reading/timeline.png)
+![timeline](./timeline.png)
